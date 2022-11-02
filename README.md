@@ -1,7 +1,8 @@
-# ASOS Team #10
-.NET Entity Framework vs NHibernate
+# .NET Entity Framework vs NHibernate
+## ASOS Team #10
 
-Documentation:
-
-
-Presentation:
+## Existujúce riešenia
+- https://github.com/dmcliver/NHibernateVsEf
+- https://github.com/nhibernate/NHibernate.Mapping.Attributes
+- https://github.com/codexguy/CodexMicroORM
+- https://github.com/leotx/performance-test
