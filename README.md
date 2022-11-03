@@ -5,7 +5,8 @@
 https://github.com/anderer455/asos/blob/main/Documentation.pdf
 
 ## Prezentácia
-TODO
+[ASOS_10.pdf](https://github.com/anderer455/asos/files/9926413/ASOS_10.pdf)
+
 
 ## Existujúce riešenia
 - https://github.com/dmcliver/NHibernateVsEf
