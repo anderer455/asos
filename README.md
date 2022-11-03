@@ -1,10 +1,10 @@
 # .NET Entity Framework vs NHibernate
 ## ASOS Team #10
 
-## Documentation
-TODO
+## Dokumentácia
+https://github.com/anderer455/asos/blob/main/Documentation.pdf
 
-## Presentation
+## Prezentácia
 TODO
 
 ## Existujúce riešenia
