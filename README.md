@@ -2,10 +2,10 @@
 ## ASOS Team #10
 
 ## Dokumentácia
-https://github.com/anderer455/asos/blob/main/Documentation.pdf
+[ASOS_10_Documentation.pdf]https://github.com/anderer455/asos/blob/main/Documentation.pdf
 
 ## Prezentácia
-[ASOS_10.pdf](https://github.com/anderer455/asos/files/9926413/ASOS_10.pdf)
+[ASOS_10_Presentation.pdf](https://github.com/anderer455/asos/files/9926413/ASOS_10.pdf)
 
 
 ## Existujúce riešenia
